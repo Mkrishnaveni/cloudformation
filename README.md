@@ -1,2 +1,0 @@
-# dockerpoc
-dirct to dockerhub

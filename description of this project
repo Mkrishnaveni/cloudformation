@@ -1,0 +1,7 @@
+This is my cloudformation project. 
+
+Obejctive: create template  for implementing 2 instance (private & public) with unique subnet,routing
+ table and all .then i want to connect private instance in public instance.
+ 
+ so here we created 1 vpc, 2 subnet,and routng tables but we provide one S.G to both instance.(because we couldnt create public s.g with private s.g like aws console in template)
+ 
