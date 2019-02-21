@@ -5,3 +5,4 @@ Obejctive: create template  for implementing 2 instance (private & public) with 
  
  so here we created 1 vpc, 2 subnet,and routng tables but we provide one S.G to both instance.(because we couldnt create public s.g with private s.g like aws console in template)
  
+I took original code from https://dev-ops-notes.com/aws/aws-cloudformation-managing-vpc/   Then i developed code......
